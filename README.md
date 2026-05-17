@@ -7,4 +7,6 @@
 2. Run the app:
    `npm run dev`
 
+   Author : Shraddha Sonar 
+
 
